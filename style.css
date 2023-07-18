@@ -1,0 +1,60 @@
+*{
+    text-align: center;
+}
+
+#solid{
+border-style: solid;
+border-color: aqua;
+width: 100px;
+height: 50px;
+margin: auto;
+}
+#dashed{
+    border-style: dashed;
+    border-color: rgb(7, 149, 31);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#dotted{
+    border-style: dotted;
+    border-color: rgb(24, 44, 44);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#double{
+    border-style: double;
+    border-color: rgb(155, 199, 24);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#groove{
+    border-style: groove;
+    border-color: rgb(239, 251, 16);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#ridge{
+    border-style: ridge;
+    border-color: rgb(238, 82, 10);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#inset{
+    border-style: inset;
+    border-color: rgb(249, 8, 8);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+#outset{
+    border-style: outset;
+    border-color: rgb(94, 22, 237);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
